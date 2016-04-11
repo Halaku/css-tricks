@@ -1,10 +1,12 @@
 # Размер правой части зависит от левой
+```
 .left-part {
   float: left
 }
 .right-part {
   overflow: hidden
 }
+```
 
 # Центрование
 ### Ячейка таблицы
